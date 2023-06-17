@@ -9,5 +9,5 @@ nltk
 tqdm
 PyYAML
 matplotlib
-
+sklearn
 -e .
